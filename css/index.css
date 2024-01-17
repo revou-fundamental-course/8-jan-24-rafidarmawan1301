@@ -1,0 +1,35 @@
+.container {
+    background-color: blue;
+    width: 100%;
+    height: 10vh;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+.container-content {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.p {
+    color: blue;
+}
+
+.content {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.content1 {
+    justify-content: center;
+    text-align: center;
+    margin-top: 10px;
+}
+
